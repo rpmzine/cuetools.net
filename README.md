@@ -160,7 +160,7 @@ The Bot Framework [Web Chat][23] is a highly customizable web-based client chat 
 
 [23]:https://github.com/Microsoft/BotFramework-WebChat#readme
 [24]:https://www.npmjs.com/package/botframework-webchat
-[25]:https://github.com/Microsoft/BotFramework-WebChat/tree/main/doc
+[25]:https://github.com/Microsoft/BotFramework-WebChat/tree/main/docs
 [26]:https://github.com/Microsoft/BotFramework-WebChat/tree/main/samples
 
 ### Bot Framework CLI
