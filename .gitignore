@@ -30,3 +30,4 @@ bones/
 
 # Python virtual environments
 **/*env/
+.DS_Store
